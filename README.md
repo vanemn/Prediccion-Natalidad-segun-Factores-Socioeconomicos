@@ -100,7 +100,7 @@ Este proyecto fue desarrollado como parte de una evaluación final en el context
   </tr>
   <tr>
     <td><img src="consolidado/figuras/3_residuales.png" width="200"/></td>
-    <td><img src="consolidado/figuras/4_coeficientes_lineales.png" width="200"/></td>
+    <td><img src="consolidado/figuras/4_coefs_lineal.png" width="200"/></td>
     <td><img src="consolidado/figuras/4_importancia_permutacion.png" width="200"/></td>
     <td><img src="consolidado/figuras/4_Acceso_parcial_Salud.png" width="200"/></td>
   </tr>
