@@ -50,6 +50,8 @@ consolidado/
 │   ├── 4_coefs_lineal.png            # Coeficientes del modelo lineal
 │   └── 4_parcial_.png                # Visualizaciones parciales por variable
 
+´´´
+
 ## 🔍 Metodología
 
 ### 1. Carga y exploración de datos
