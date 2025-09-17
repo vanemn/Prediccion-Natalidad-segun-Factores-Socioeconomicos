@@ -93,16 +93,16 @@ Este proyecto fue desarrollado como parte de una evaluación final en el context
 
 <table>
   <tr>
-    <td><img src="figuras/mae_por_config.png" width="200"/></td>
-    <td><img src="figuras/rmse_por_config.png" width="200"/></td>
-    <td><img src="figuras/r2_por_config.png" width="200"/></td>
-    <td><img src="figuras/importancia_variables.png" width="200"/></td>
+    <td><img src="consolidado/figuras/mae_por_config.png" width="200"/></td>
+    <td><img src="consolidado/figuras/rmse_por_config.png" width="200"/></td>
+    <td><img src="consolidado/figuras/r2_por_config.png" width="200"/></td>
+    <td><img src="consolidado/figuras/importancia_variables.png" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="figuras/distribucion_residuos.png" width="200"/></td>
-    <td><img src="figuras/correlacion_variables.png" width="200"/></td>
-    <td><img src="figuras/coeficientes_regresion.png" width="200"/></td>
-    <td><img src="figuras/curva_aprendizaje.png" width="200"/></td>
+    <td><img src="consolidado/figuras/distribucion_residuos.png" width="200"/></td>
+    <td><img src="consolidado/figuras/correlacion_variables.png" width="200"/></td>
+    <td><img src="consolidado/figuras/coeficientes_regresion.png" width="200"/></td>
+    <td><img src="consolidado/figuras/curva_aprendizaje.png" width="200"/></td>
   </tr>
 </table>
 ## 🚀 Propuestas de Mejora
