@@ -78,12 +78,14 @@ Este proyecto fue desarrollado como parte de una evaluación final en el context
 
 ## 📊 Resultados Destacados
 
-| Métrica | Valor |
-|--------|-------|
-| MAE (Test) | `≈ 0.XX` |
-| RMSE (Test) | `≈ 0.XX` |
-| R² (Test) | `≈ 0.XX` |
 
+| Métrica        | Valor     | Interpretación                                                                 |
+|----------------|-----------|--------------------------------------------------------------------------------|
+| MAE (Error Absoluto Medio) | 4.84      | En promedio, el modelo se equivoca en ~4.84 unidades de natalidad.         |
+| RMSE (Raíz del Error Cuadrático Medio) | 5.72      | Penaliza más los errores grandes. Buen indicador de precisión general.     |
+| R² (Coeficiente de Determinación)      | 0.545     | El modelo explica el 54.5% de la variabilidad en la tasa de natalidad.     |
+| Mejor Configuración                    | relu + adam + lr=0.001 + dropout=0.3 | Combinación óptima para este dataset. |
+| Variables más influyentes              | PIB_per_capita, Urbanización, Empleo Femenino | Factores clave en la predicción. |
 > Las variables más influyentes fueron aquellas relacionadas con educación, urbanización y edad promedio de maternidad, alineadas con patrones globales de natalidad.
 
 ---
