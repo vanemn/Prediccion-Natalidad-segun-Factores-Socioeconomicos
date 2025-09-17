@@ -93,7 +93,7 @@ Este proyecto fue desarrollado como parte de una evaluación final en el context
 
 <table>
   <tr>
-    <td><img src="consolidado/figuras/1_correlación.png" width="200"/></td>
+    <td><img src="consolidado/figuras/1_correlacion.png" width="200"/></td>
     <td><img src="consolidado/figuras/1_distribuciones.png" width="200"/></td>
     <td><img src="consolidado/figuras/2_curvas_entrenamiento.png" width="200"/></td>
     <td><img src="consolidado/figuras/3_real_vs_predicho.png" width="200"/></td>
