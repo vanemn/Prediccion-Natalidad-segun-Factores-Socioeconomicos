@@ -1,0 +1,6 @@
+config_id,activation,optimizer,lr,dropout,use_l2,test_mae,test_rmse,test_r2,ckpt
+1,relu,adam,0.001,0.3,False,6.670825156595612,7.690371595289979,0.17761072282619705,modelos/mejor_modelo_cfg1.keras
+5,selu,adam,0.001,0.2,False,25.145779227366035,25.559855883481134,-8.08446989776591,modelos/mejor_modelo_cfg5.keras
+4,tanh,rmsprop,0.001,0.2,True,28.120364467700306,28.68704169893292,-10.443379953811412,modelos/mejor_modelo_cfg4.keras
+3,relu,adam,0.0005,0.4,True,29.099630416830365,30.311598329158016,-11.776163567352393,modelos/mejor_modelo_cfg3.keras
+2,tanh,adam,0.001,0.3,False,29.742838084598368,30.240100606674456,-11.71596289670796,modelos/mejor_modelo_cfg2.keras

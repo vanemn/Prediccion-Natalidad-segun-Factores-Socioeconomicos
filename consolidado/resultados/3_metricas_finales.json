@@ -1,0 +1,12 @@
+{
+  "best_config": {
+    "activation": "relu",
+    "optimizer": "adam",
+    "lr": 0.001,
+    "dropout": 0.3,
+    "use_l2": false
+  },
+  "test_mae": 6.670825156595612,
+  "test_rmse": 7.690371595289979,
+  "test_r2": 0.17761072282619705
+}

@@ -1,0 +1,24 @@
+{
+  "variables_mas_influyentes_top3": [
+    {
+      "variable": "PIB_per_capita",
+      "delta_mae": 1.9456875801086397
+    },
+    {
+      "variable": "Tasa_Empleo_Femenino",
+      "delta_mae": 0.0012586749828784605
+    },
+    {
+      "variable": "Acceso_Salud",
+      "delta_mae": -0.11395433306147673
+    }
+  ],
+  "lectura_signo_baseline_lineal": "Coeficientes positivos aumentan la predicción; negativos la reducen (ver resultados/4_coeficientes_lineal.csv).",
+  "tendencias_globales": "Mayor educación, urbanización, edad de maternidad y acceso a salud suelen asociarse a menor natalidad; contrastar con tu ranking empírico.",
+  "mejoras": [
+    "Añadir datos longitudinales (series temporales) y variables de políticas públicas.",
+    "Validación cruzada y búsqueda bayesiana de hiperparámetros.",
+    "Comparar con modelos de árbol (XGBoost, RandomForest) y ensamblados.",
+    "Explicabilidad avanzada (SHAP) y estimación de incertidumbre (intervalos)."
+  ]
+}
