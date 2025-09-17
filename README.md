@@ -27,7 +27,7 @@ Este proyecto fue desarrollado como parte de una evaluación final en el context
 ---
 
 ## 📁 Estructura del Proyecto
-
+--- ´´´
 ├── consolidado.py                  # Script principal con carga, modelado y evaluación
 ├── dataset_natalidad.csv          # Dataset con variables socioeconómicas por país
 ├── resultados/
@@ -47,8 +47,7 @@ Este proyecto fue desarrollado como parte de una evaluación final en el context
 │   ├── 4_coefs_lineal.png
 │   └── 4_parcial_<variable>.png
 
-
-
+--- ´´´
 ## 🔍 Metodología
 
 ### 1. Carga y exploración de datos
