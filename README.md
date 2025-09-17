@@ -89,20 +89,24 @@ Este proyecto fue desarrollado como parte de una evaluación final en el context
 > Las variables más influyentes fueron aquellas relacionadas con educación, urbanización y edad promedio de maternidad, alineadas con patrones globales de natalidad.
 
 ---
-## 📊 Visualizaciones del modelo
+#### 📷 Gráficos generados
 
 <table>
   <tr>
-    <td><img src="consolidado/figuras/mae_por_config.png" width="200"/></td>
-    <td><img src="consolidado/figuras/rmse_por_config.png" width="200"/></td>
-    <td><img src="consolidado/figuras/r2_por_config.png" width="200"/></td>
-    <td><img src="consolidado/figuras/importancia_variables.png" width="200"/></td>
+    <td><img src="figuras/1_correlación.png" width="200"/></td>
+    <td><img src="figuras/1_distribuciones.png" width="200"/></td>
+    <td><img src="figuras/2_curvas_entrenamiento.png" width="200"/></td>
+    <td><img src="figuras/3_real_vs_predicho.png" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="consolidado/figuras/distribucion_residuos.png" width="200"/></td>
-    <td><img src="consolidado/figuras/correlacion_variables.png" width="200"/></td>
-    <td><img src="consolidado/figuras/coeficientes_regresion.png" width="200"/></td>
-    <td><img src="consolidado/figuras/curva_aprendizaje.png" width="200"/></td>
+    <td><img src="figuras/3_residuales.png" width="200"/></td>
+    <td><img src="figuras/4_coeficientes_lineales.png" width="200"/></td>
+    <td><img src="figuras/4_importancia_permutacion.png" width="200"/></td>
+    <td><img src="figuras/4_Acceso_parcial_Salud.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="figuras/4_PIB_parcial_per_cápita.png" width="200"/></td>
+    <td><img src="figuras/4_parcial_Tasa_Empleo_Femenino.png" width="200"/></td>
   </tr>
 </table>
 ## 🚀 Propuestas de Mejora
