@@ -102,7 +102,7 @@ Este proyecto fue desarrollado como parte de una evaluación final en el context
     <td><img src="consolidado/figuras/3_residuales.png" width="200"/></td>
     <td><img src="consolidado/figuras/4_coefs_lineal.png" width="200"/></td>
     <td><img src="consolidado/figuras/4_importancia_permutacion.png" width="200"/></td>
-    <td><img src="consolidado/figuras/4_Acceso_parcial_Salud.png" width="200"/></td>
+    <td><img src="consolidado/figuras/4_parcial_Acceso_Salud.png" width="200"/></td>
   </tr>
   <tr>
     <td><img src="consolidado/figuras/4_PIB_parcial_per_cápita.png" width="200"/></td>
