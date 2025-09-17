@@ -105,7 +105,7 @@ Este proyecto fue desarrollado como parte de una evaluación final en el context
     <td><img src="consolidado/figuras/4_parcial_Acceso_Salud.png" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="consolidado/figuras/4_PIB_parcial_per_cápita.png" width="200"/></td>
+    <td><img src="consolidado/figuras/4_parcial_PIB_per_capita.png" width="200"/></td>
     <td><img src="consolidado/figuras/4_parcial_Tasa_Empleo_Femenino.png" width="200"/></td>
   </tr>
 </table>
