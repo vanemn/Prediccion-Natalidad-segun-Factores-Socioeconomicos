@@ -27,7 +27,8 @@ Este proyecto fue desarrollado como parte de una evaluación final en el context
 ---
 
 ## 📁 Estructura del Proyecto
---- ´´´text
+
+```text
 Predicción-Natalidad-segun-Factores-Socioeconómicos/
 ├── consolidado.py                  # Script principal: carga de datos, entrenamiento y evaluación de modelos
 ├── dataset_natalidad.csv          # Dataset base con variables socioeconómicas por país
@@ -47,7 +48,7 @@ Predicción-Natalidad-segun-Factores-Socioeconómicos/
 │   ├── 4_importancia_permutacion.png # Gráfico de importancia de variables
 │   ├── 4_coefs_lineal.png            # Coeficientes del modelo lineal
 │   └── 4_parcial_.png                # Visualizaciones parciales por variable
----
+
 ## 🔍 Metodología
 
 ### 1. Carga y exploración de datos
