@@ -30,6 +30,7 @@ Este proyecto fue desarrollado como parte de una evaluación final en el context
 
 ```text
 Predicción-Natalidad-segun-Factores-Socioeconómicos/
+consolidado/
 ├── consolidado.py                  # Script principal: carga de datos, entrenamiento y evaluación de modelos
 ├── dataset_natalidad.csv          # Dataset base con variables socioeconómicas por país
 ├── resultados/                    # Métricas, coeficientes y reflexiones del modelo
