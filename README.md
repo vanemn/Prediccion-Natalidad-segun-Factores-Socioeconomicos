@@ -89,7 +89,22 @@ Este proyecto fue desarrollado como parte de una evaluación final en el context
 > Las variables más influyentes fueron aquellas relacionadas con educación, urbanización y edad promedio de maternidad, alineadas con patrones globales de natalidad.
 
 ---
+## 📊 Visualizaciones del modelo
 
+<table>
+  <tr>
+    <td><img src="figuras/mae_por_config.png" width="200"/></td>
+    <td><img src="figuras/rmse_por_config.png" width="200"/></td>
+    <td><img src="figuras/r2_por_config.png" width="200"/></td>
+    <td><img src="figuras/importancia_variables.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="figuras/distribucion_residuos.png" width="200"/></td>
+    <td><img src="figuras/correlacion_variables.png" width="200"/></td>
+    <td><img src="figuras/coeficientes_regresion.png" width="200"/></td>
+    <td><img src="figuras/curva_aprendizaje.png" width="200"/></td>
+  </tr>
+</table>
 ## 🚀 Propuestas de Mejora
 
 - Incorporar datos longitudinales y políticas públicas.
