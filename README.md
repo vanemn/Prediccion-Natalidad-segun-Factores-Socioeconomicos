@@ -27,27 +27,27 @@ Este proyecto fue desarrollado como parte de una evaluación final en el context
 ---
 
 ## 📁 Estructura del Proyecto
---- ´´´
-├── consolidado.py                  # Script principal con carga, modelado y evaluación
-├── dataset_natalidad.csv          # Dataset con variables socioeconómicas por país
-├── resultados/
-│   ├── 2_resultados_configs.csv   # Métricas por configuración
-│   ├── 3_metricas_finales.json    # Métricas del mejor modelo
-│   ├── 3_predicciones_test.csv    # Predicciones vs valores reales
-│   ├── 4_importancia_permutacion.csv  # Importancia de variables (permutación)
-│   ├── 4_coeficientes_lineal.csv      # Coeficientes del modelo lineal
-│   └── 5_reflexion_operativa.json     # Reflexión final y mejoras propuestas
-├── figuras/
-│   ├── 1_correlacion.png
-│   ├── 1_distribuciones.png
-│   ├── 2_curvas_entrenamiento.png
-│   ├── 3_real_vs_predicho.png
-│   ├── 3_residuales.png
-│   ├── 4_importancia_permutacion.png
-│   ├── 4_coefs_lineal.png
-│   └── 4_parcial_<variable>.png
+--- 
+Predicción-Natalidad-segun-Factores-Socioeconómicos/
+├── consolidado.py                  # Script principal: carga de datos, entrenamiento y evaluación de modelos
+├── dataset_natalidad.csv          # Dataset base con variables socioeconómicas por país
+├── resultados/                    # Métricas, coeficientes y reflexiones del modelo
+│   ├── 2_resultados_configs.csv       # Comparativa de configuraciones probadas
+│   ├── 3_metricas_finales.json        # Métricas del mejor modelo seleccionado
+│   ├── 3_predicciones_test.csv        # Predicciones vs valores reales en test
+│   ├── 4_importancia_permutacion.csv # Importancia de variables según permutación
+│   ├── 4_coeficientes_lineal.csv     # Coeficientes del modelo lineal
+│   └── 5_reflexion_operativa.json    # Reflexión final y propuestas de mejora
+├── figuras/                      # Visualizaciones generadas durante el análisis
+│   ├── 1_correlacion.png             # Mapa de correlación entre variables
+│   ├── 1_distribuciones.png          # Distribución de variables clave
+│   ├── 2_curvas_entrenamiento.png    # Curvas de pérdida durante el entrenamiento
+│   ├── 3_real_vs_predicho.png        # Comparación entre valores reales y predichos
+│   ├── 3_residuales.png              # Análisis de residuos del modelo
+│   ├── 4_importancia_permutacion.png # Gráfico de importancia de variables
+│   ├── 4_coefs_lineal.png            # Coeficientes del modelo lineal
+│   └── 4_parcial_.png                # Visualizaciones parciales por variable
 
---- ´´´
 ## 🔍 Metodología
 
 ### 1. Carga y exploración de datos
